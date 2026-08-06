@@ -1,4 +1,4 @@
-# Basic SQL Queries
+# Basic SQL Queries (Oracle SQL)
 
 ## Create Table
 ```sql
