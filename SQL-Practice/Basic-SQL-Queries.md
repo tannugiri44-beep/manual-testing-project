@@ -3,9 +3,9 @@
 ## Create Table
 ```sql
 CREATE TABLE Employee (
-    EmpID INT,
-    Name VARCHAR(50),
-    Salary INT
+   EmpID NUMBER,
+Name VARCHAR2(50),
+Salary NUMBER
 );
 ```
 
